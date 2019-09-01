@@ -25,4 +25,4 @@ localhost:5000
 and upload your images. 
 
 
-![image](images/examples.png)
+![image](images/example.png)
