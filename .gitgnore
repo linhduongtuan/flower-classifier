@@ -1,0 +1,5 @@
+/flowers/
+samples/
+/build/
+/venv/
+-*egg-info/
