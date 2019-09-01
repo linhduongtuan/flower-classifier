@@ -1,6 +1,17 @@
 ### CNN FLower classifier with Flask 
 
-run with
+
+1. Install minimal libraries by 
+
+
+``` 
+python -m pip install requirements.txt
+
+```
+
+Due to its lightness I decided to use torch with cpu only. 
+After installation, 
+start application with
 
 ``` python
 
