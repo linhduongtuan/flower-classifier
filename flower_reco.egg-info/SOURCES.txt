@@ -1,3 +1,4 @@
+README.md
 setup.py
 flower_reco.egg-info/PKG-INFO
 flower_reco.egg-info/SOURCES.txt

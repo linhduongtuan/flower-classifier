@@ -1,4 +1,28 @@
 ### CNN FLower classifier with Flask 
 
+run with
 
-Put images in here
+``` python
+
+python src/imagenet_api.py
+
+
+```
+
+
+then go to 
+
+
+``` 
+
+
+localhost:5000
+
+```
+
+
+
+and upload your images. 
+
+
+[!image](images/examples.png)
